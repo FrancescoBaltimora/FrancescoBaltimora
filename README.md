@@ -52,8 +52,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FrancescoBaltimora/FrancescoBaltimora/snake.svg" alt="Snake animation" />
-
-###
